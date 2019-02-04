@@ -1,0 +1,19 @@
+/**
+*Title: Elevens Lab
+*@author Aika Washington
+*@since 07 December 2017
+*@version 1.0
+*Description: This is a program that will allow the user to play a virtual card game called Elevens.  
+*Honor Code: On my honor, I have neither given nor received any unauthorized aid on this assignment. Aika Washington  
+*/
+
+
+Activity 6
+
+1. (5 of spades & 6 of clubs) (5 of clubs & 6 of clubs)
+
+2. Yes, they would have to be J, Q, and K because those are the only three 
+cards that can be left at the end of a game, otherwise you would have lost 
+already. 
+3. No, there is no strategy because the cards appear at random and you
+never know what you will get.

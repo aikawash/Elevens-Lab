@@ -1,0 +1,26 @@
+/**
+*Title: Elevens Lab
+*@author Aika Washington
+*@since 07 December 2017
+*@version 1.0
+*Description: This is a program that will allow the user to play a virtual card game called Elevens.  
+*Honor Code: On my honor, I have neither given nor received any unauthorized aid on this assignment. Aika Washington  
+*/
+
+
+1. The relationship between a deck and a card is that many cards make up a deck. In this assignment, decks are made 
+from array lists of cards.
+2. There are 6 cards because there are 1 of each rank in each suit.
+3. String[] ranks04 = {"Ace","2", "3", "4", "5", "6", "jack", "queen", "king"};
+   String[] suits04 = {"Spades", "Hearts", "Diamonds", "Clubs"};
+   int[] pointValues04 = {11, 12, 13};
+   Deck deck04 = new Deck(ranks04, suits04, pointValues04);
+   System.out.println(deck04);
+   
+   for (int i = 0; i < ranks.length; i++) 
+            {
+                Card someCards = new Card(ranks[i], suits[i], values[i]);
+                this.cards.add(someCards);
+            }
+        this.size = this.cards.size();
+

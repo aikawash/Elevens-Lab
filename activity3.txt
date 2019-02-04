@@ -1,0 +1,51 @@
+/**
+*Title: Elevens Lab
+*@author Aika Washington
+*@since 07 December 2017
+*@version 1.0
+*Description: This is a program that will allow the user to play a virtual card game called Elevens.  
+*Honor Code: On my honor, I have neither given nor received any unauthorized aid on this assignment. Aika Washington  
+*/
+
+Activity 3
+
+
+1. 
+
+public static String flip (int[] values)
+{ 
+if(result.equals("heads")) 
+   { 
+      return "heads"; 
+   } 
+else if(result.equals("tails")) 
+   { 
+      return "tails"; 
+   } 
+}
+
+2.
+public static boolean arePermutations(int[] array01, int[] array02)
+ boolean booly = false;
+{
+    for(int i = 0; i < array01.length; i++)
+      {
+        booly = false;
+        for(int s = 0; s < array02.length; s++)
+            {
+            if(array01[i] == array02[s])
+            {
+                booly = true;
+            }
+      }
+      
+    if(booly)
+        {
+            return true;
+        }
+
+    }
+    return false;
+}
+
+3. 0, 1, 1
